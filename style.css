@@ -12,6 +12,8 @@ height: 100%;
     margin: 20px;
 }
 .header {
+    display: flex;
+    justify-content: space-between;
     background-color: rgb(2, 105, 71);
     
 }
